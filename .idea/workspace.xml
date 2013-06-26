@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PhpClassCreatorByXml.java" line="14" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="183e38fd-7e68-439e-8fb2-b7967935296e" name="Default" comment="" />
+    <list default="true" id="183e38fd-7e68-439e-8fb2-b7967935296e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PinYinTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PinYinTest.java" />
+    </list>
     <ignored path="auto-print.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,10 +67,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PinYinTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="PinYinTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PinYinTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="13" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0">
+            <state line="29" column="8" selection-start="1123" selection-end="1123" vertical-scroll-proportion="0.4811321">
               <folding />
             </state>
           </provider>
@@ -77,18 +80,15 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PinYinTest2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="63" column="47" selection-start="2346" selection-end="2346" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2526#2534#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="477" column="70" selection-start="18005" selection-end="18005" vertical-scroll-proportion="0.8759124">
+            <state line="456" column="37" selection-start="17261" selection-end="17261" vertical-scroll-proportion="-13.961538">
               <folding />
             </state>
           </provider>
@@ -109,7 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/docs/MobileApi/PayeeDetail.xml" />
         <option value="$PROJECT_DIR$/docs/MobileApi/FinalizePayment.xml" />
         <option value="$PROJECT_DIR$/docs/MobileApi/AuthorizeDeletePayment.xml" />
         <option value="$PROJECT_DIR$/docs/MobileApi/GetPayeePaymentHistory.xml" />
@@ -125,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/logic/autoprint/util/PinYinTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/logic/autoprint/util/PinYinTest2.java" />
         <option value="$PROJECT_DIR$/src/My_URL.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PinYinTest.java" />
       </list>
     </option>
   </component>
@@ -216,7 +216,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -242,7 +242,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -257,6 +256,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -271,91 +271,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WordReaderServer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WordReaderServer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WordReaderServer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WordReaderServer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WordReaderServer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WordReaderServer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WordReaderServer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WordReaderServer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WordReaderServer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -365,14 +281,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="145" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="120" />
     <property name="project.structure.last.edited" value="Modules" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="120" />
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="53" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="146" />
-    <property name="project.structure.proportion" value="0.15" />
     <property name="OverrideImplement.combined" value="true" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="146" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
@@ -396,13 +312,13 @@
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
-    <property name="DefaultHtmlFileTemplate" value="Html" />
-    <property name="project.structure.side.proportion" value="0.13403264" />
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="project.structure.side.proportion" value="0.17585301" />
+    <property name="DefaultHtmlFileTemplate" value="Html" />
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
-    <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -642,17 +558,6 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -676,6 +581,17 @@
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
@@ -750,19 +666,18 @@
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18272425" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2451613" sideWeight="0.6998617" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41042346" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23122318" sideWeight="0.6486797" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1973262" sideWeight="0.7021041" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15294118" sideWeight="0.65336376" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16898395" sideWeight="0.65336376" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.345898" sideWeight="0.9883871" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="JavaRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JavaRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -772,6 +687,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18129988" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IntelliJad Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26135105" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29646522" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -830,15 +746,6 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-    <buildFile url="file://$PROJECT_DIR$/build.xml">
-      <antCommandLine value="" />
-      <runInBackground value="true" />
-      <targetFilters />
-      <treeView value="true" />
-      <verbose value="true" />
-      <viewClosedWhenNoErrors value="false" />
-      <expanded value="true" />
-    </buildFile>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PhpClassCreatorByCSV.java">
@@ -858,26 +765,21 @@
         <state line="40" column="90" selection-start="2414" selection-end="2414" vertical-scroll-proportion="0.848723" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PinYinTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="13" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0">
+        <state line="456" column="37" selection-start="17261" selection-end="17261" vertical-scroll-proportion="-13.961538">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PinYinTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="47" selection-start="2346" selection-end="2346" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2526#2534#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="63" column="47" selection-start="2346" selection-end="2346" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PinYinTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="477" column="70" selection-start="18005" selection-end="18005" vertical-scroll-proportion="0.8759124">
+        <state line="29" column="8" selection-start="1123" selection-end="1123" vertical-scroll-proportion="0.4811321">
           <folding />
         </state>
       </provider>
@@ -901,7 +803,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>JPA</last-edited>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -940,7 +842,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.13403264" />
+                <option value="0.15151516" />
                 <option value="0.5" />
               </list>
             </option>
@@ -953,7 +855,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.24852458" />
+                <option value="0.17585301" />
               </list>
             </option>
           </splitter-proportions>

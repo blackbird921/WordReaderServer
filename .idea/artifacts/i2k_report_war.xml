@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="i2k_report:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="i2k.war">
+      <element id="artifact" artifact-name="i2k_report:war exploded" />
+    </root>
+  </artifact>
+</component>

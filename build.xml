@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<project name="Merck OnCall WS Client" basedir="." default="usage">
+	<property name="Stubbed" value="false"/>
+	
+	<target name="usage" description="Describes the usage of this script">
+        <echo message=""/>
+        <echo message="Build file for: Auto-Print web service client"/>
+        <echo message="-------------------------------------"/>
+        <echo message="Available targets are:"/>
+        <echo message=""/>
+		<echo message="xjc				  = Regenerates the WS Entities"/>
+	</target>
+
+    <property name="entityDir" value="src/main/java/com/logic/wordreader/entity"/>
+
+    <path id="jaxb.classpath">
+        <fileset dir="lib/jaxb">
+            <include name="collection-setter-injector.jar"/>
+            <include name="jaxb-api.jar"/>
+            <include name="jaxb-commons-lang-plugin-2.1.3.jar"/>
+            <include name="jaxb-impl.jar"/>
+            <include name="jaxb-xjc.jar"/>
+            <include name="commons-lang-2.3.jar"/>
+        </fileset>
+    </path>
+    <taskdef name="xjc" classname="com.sun.tools.xjc.XJC2Task" classpathref="jaxb.classpath"/>
+
+    <target name="xjc" depends="xjc-nodeStatus, xjc-printStream"></target>
+
+    <target name="xjc-nodeStatus">
+        <antcall target="xjc-template">
+            <param name="wsdlName" value="nodeStatus"/>
+        </antcall>
+    </target>
+
+    <target name="xjc-printStream">
+        <antcall target="xjc-template">
+            <param name="wsdlName" value="printStream"/>
+        </antcall>
+    </target>
+
+
+    <target name="xjc-template" description="Generates the Jaxb entities">
+        <path refid="jaxb.classpath"/>
+        <xjc destdir="src/main/java" package="com.logic.wordreader.entity.${wsdlName}"
+             schema="docs/wsdl/${wsdlName}.wsdl" target="2.0" extension="true"
+            header="false">
+            <arg value="-wsdl"/>
+        	<arg value="-Xcommons-lang"/>
+            <arg value="-Xcommons-lang:ToStringStyle=SHORT_PREFIX_STYLE"/>
+            <arg value="-Xcollection-setter-injector"/>
+        </xjc>
+	</target>
+</project>

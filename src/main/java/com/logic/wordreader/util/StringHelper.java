@@ -1,0 +1,18 @@
+package com.logic.wordreader.util;
+
+public class StringHelper {
+    public static String parseUtf8String( String orig,  String f , String code) {
+        String name = "";
+        try {
+            String iso = new String(orig.getBytes(f), code);
+            name =new String(iso.getBytes(code),"UTF-8");
+        } catch ( Exception e ) {
+            e.printStackTrace();
+        }
+        return name;
+    }
+
+
+
+
+}

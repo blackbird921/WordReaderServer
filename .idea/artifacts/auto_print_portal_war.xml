@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="auto_print_portal:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="autoprint-0.1.0.BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="auto_print_portal:war exploded" />
+    </root>
+  </artifact>
+</component>

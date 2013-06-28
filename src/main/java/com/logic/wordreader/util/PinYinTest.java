@@ -7,6 +7,8 @@ import net.sourceforge.pinyin4j.format.HanyuPinyinToneType;
 import net.sourceforge.pinyin4j.format.HanyuPinyinVCharType;
 import net.sourceforge.pinyin4j.format.exception.BadHanyuPinyinOutputFormatCombination;
 
+import java.util.*;
+
 /**
  * Created by IntelliJ IDEA.
  * User: w
@@ -15,6 +17,7 @@ import net.sourceforge.pinyin4j.format.exception.BadHanyuPinyinOutputFormatCombi
  * To change this template use File | Settings | File Templates.
  */
 public class PinYinTest {
+
     public static String getPiYin(String src) {
 
         HanyuPinyinOutputFormat outFormat = new HanyuPinyinOutputFormat();
@@ -30,11 +33,6 @@ public class PinYinTest {
     }
 
     public static void main(String[] args) {
-        System.out.println(getPiYin("今天"));
-        System.out.println(getPiYin("一见钟情"));
-        System.out.println(getPiYin("一百分"));
-        System.out.println(getPiYin("曾经"));
-        System.out.println(getPiYin("曾国藩"));
 
     }
 }

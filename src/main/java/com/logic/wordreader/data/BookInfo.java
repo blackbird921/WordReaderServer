@@ -1,4 +1,4 @@
-package com.logic.wordreader.httpclient;
+package com.logic.wordreader.data;
 
 /**
  * Created by IntelliJ IDEA.

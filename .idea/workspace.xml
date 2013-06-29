@@ -4,10 +4,1181 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PhpClassCreatorByXml.java" line="14" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="183e38fd-7e68-439e-8fb2-b7967935296e" name="Default" comment="">
+    <list default="true" id="183e38fd-7e68-439e-8fb2-b7967935296e" name="Default" comment="s">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/a1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/a2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/a5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ai2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/an1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/an3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/an4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ba1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ba2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ba3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ba4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ba5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bai2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ban1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ban3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ban4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bei1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bei3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bei4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bei5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ben1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ben3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ben4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/beng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/beng2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/beng4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bi1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bi2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bi3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bi4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bian1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bian3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bian4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/biao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/biao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bie1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bie2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bie4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bin1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bin4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bing1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bing3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bing4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bo2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bo3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bo5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/bu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ca1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cai2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/can1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/can2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/can3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/can4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ce4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cen2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ceng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ceng2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ceng4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cha1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cha2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cha4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chai2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/che1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/che3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/che4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chen1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chen2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chen3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chen4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cheng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cheng2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cheng3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cheng4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chi1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chi2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chi3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chi4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chong1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chong2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chong3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chou1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chou2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chou3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chou4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chuai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chuai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chuai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chuan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chuan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chuan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chuan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chuang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chuang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chuang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chuang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chui1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chui2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chun1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chun2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chun3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chuo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/chuo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ci1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ci2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ci3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ci4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cong1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cong2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cou4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cuan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cuan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cui1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cui3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cui4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cun1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cun2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cun3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cun4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cuo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cuo2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/cuo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/da1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/da2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/da3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/da4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/de2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/de5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/deng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/deng3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/deng4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/di1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/di2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/di3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/di4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dian1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dian3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dian4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/diao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/diao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/die1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/die2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ding1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ding3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ding4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/diu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dong1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dong3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dong4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dou1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dou3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dou4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/du1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/du2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/du3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/du4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/duan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/duan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/duan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dui1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dui4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dun1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dun3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/dun4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/duo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/duo2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/duo3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/duo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/e1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/e2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/e4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/en1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/er2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/er3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/er4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fa1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fa2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fa3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fa4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fei1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fei2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fei3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fei4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fen1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fen2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fen3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fen4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/feng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/feng2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/feng3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/feng4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fo2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fou2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fou3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/fu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ga1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ga2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ga4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ge1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ge2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ge3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ge4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gei3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gen1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gen4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/geng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/geng3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/geng4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gong1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gong3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gong4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gou1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gou3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gou4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gua1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gua3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gua4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/guai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/guai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/guai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/guan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/guan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/guan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/guang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/guang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/guang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gui1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gui3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gui4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gun3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/gun4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/guo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/guo2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/guo3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/guo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ha1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ha2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hai2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/han1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/han2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/han3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/han4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/he1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/he2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/he4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hei1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hen2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hen3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hen4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/heng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/heng2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hong1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hong2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hong3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hong4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hou2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hou3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hou4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hua1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hua2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hua4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/huai2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/huai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/huan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/huan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/huan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/huan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/huang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/huang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/huang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/huang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hui1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hui2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hui3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hui4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hun1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hun2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/hun4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/huo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/huo2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/huo3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/huo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ji1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ji2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ji3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ji4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jia1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jia2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jia3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jia4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jian1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jian3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jian4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jiang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jiang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jiang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jiao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jiao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jiao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jiao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jie1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jie2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jie3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jie4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jin1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jin3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jin4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jing1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jing3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jing4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jiong3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jiu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jiu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jiu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ju1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ju2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ju3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ju4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/juan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/juan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/juan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jue1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jue2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jue4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jun1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/jun4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ka1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ka3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ke1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ke2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ke3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ke4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ken3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/keng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kong1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kong3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kong4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kou1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kou3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kou4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ku1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ku3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ku4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kua1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kua3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kua4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kuai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kuan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kuan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kuang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kuang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kuang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kui1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kui2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kui3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kui4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kun1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kun3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kun4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/kuo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/la1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/la3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/la4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/la5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lai2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/le4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/le5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lei2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lei3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lei4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/leng2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/leng3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/leng4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/li1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/li2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/li3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/li4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lia3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lian1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lian2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lian3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lian4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/liang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/liang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/liang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/liao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/liao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/liao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lie3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lie4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lin1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lin2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lin3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lin4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ling2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ling3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ling4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/liu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/liu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/liu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/liu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/long2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/long3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lou2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lou3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lou4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lou5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/luan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/luan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lun1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lun2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lun4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/luo2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/luo3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/luo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lv2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lv3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lv4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/lve4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ma1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ma2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ma3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ma4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ma5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mai2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/man2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/man3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/man4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/me5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mei2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mei3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mei4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/men2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/men4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/men5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/meng2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/meng3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/meng4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mi1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mi2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mi3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mi4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mian2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mian3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mian4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/miao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/miao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/miao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/miao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mie1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mie4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/min2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/min3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ming2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ming3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ming4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/miu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mo2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mo3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mou2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mou3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/mu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/na2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/na3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/na4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ne4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nei3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nei4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nen4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/neng2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ng4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ni1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ni2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ni3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ni4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nian1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nian2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nian3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nian4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/niang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/niao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/niao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nie1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nie4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nin2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ning2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ning3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ning4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/niu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/niu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/niu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/niu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nong2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nong4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nou4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nuan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nuo2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nuo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nv3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/nve4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/o1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ou1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ou3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pa1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pa2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pa4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pai2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pei1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pei2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pei4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pen1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pen2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/peng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/peng2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/peng3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/peng4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pi1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pi2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pi3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pi4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pian1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pian2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pian4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/piao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/piao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/piao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/piao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pie1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pie3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pin1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pin2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pin3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pin4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ping1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ping2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/po1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/po2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/po3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/po4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pou1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pou2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/pu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qi1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qi2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qi3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qi4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qia1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qia4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qian1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qian2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qian3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qian4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qiang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qiang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qiang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qiang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qiao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qiao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qiao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qiao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qie2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qie3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qie4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qin1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qin2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qin3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qin4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qing1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qing2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qing3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qing4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qiong2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qiu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qiu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/quan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/quan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/quan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/quan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/que1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/que2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/que4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/qun2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ran2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ran3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/rao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/rao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/rao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/re3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/re4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ren2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ren3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ren4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/reng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/reng2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ri4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/rong2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/rong3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/rou2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/rou4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ru2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ru3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ru4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ruan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/rui3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/rui4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/run4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ruo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sa1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sa3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sa4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/san1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/san3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/san4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/se4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sen1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/seng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sha1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sha2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sha3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sha4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shang5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/she1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/she2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/she3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/she4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shen1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shen2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shen3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shen4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sheng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sheng2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sheng3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sheng4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shi1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shi2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shi3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shi4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shou1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shou3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shou4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shua1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shua3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shuai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shuai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shuai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shuan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shuan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shuang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shuang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shui2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shui3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shui4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shun3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shun4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shuo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/shuo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/si1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/si3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/si4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/song1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/song3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/song4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sou1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sou3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sou4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/su1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/su2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/su4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/suan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/suan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sui1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sui2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sui3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sui4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sun1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sun3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/sun4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/suo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/suo3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ta1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ta3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ta4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tai2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/te4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/teng2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ti1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ti2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ti3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ti4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tian1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tian2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tian3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tiao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tiao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tiao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tiao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tie1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tie3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tie4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ting1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ting2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ting3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tong1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tong2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tong3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tong4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tou1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tou2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tou4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tuan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tuan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tui1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tui2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tui3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tui4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tun1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tun2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tun4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tun5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tuo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tuo2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tuo3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/tuo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wa1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wa2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wa3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wei1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wei2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wei3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wei4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wen1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wen2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wen3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wen4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/weng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/weng3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/weng4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wo3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/wu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xi1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xi2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xi3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xi4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xia1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xia2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xia4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xian1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xian2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xian3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xian4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xiang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xiang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xiang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xiang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xiao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xiao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xiao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xiao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xie1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xie2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xie3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xie4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xin1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xin4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xing1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xing2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xing3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xing4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xiong1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xiong2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xiu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xiu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xiu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xu5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xuan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xuan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xuan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xuan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xue1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xue2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xue3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xue4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xun1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xun2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/xun4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ya1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ya2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ya3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ya4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yang2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ye1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ye2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ye3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ye4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yi1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yi2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yi3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yi4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yin1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yin2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yin3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yin4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ying1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ying2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ying3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ying4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yo5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yong1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yong3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yong4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/you1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/you2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/you3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/you4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yuan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yuan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yuan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yuan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yue1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yue4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yun1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yun2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yun3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/yun4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/za1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/za2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/za3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zan2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ze2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/ze4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zei2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zen3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zeng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zeng4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zha1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zha2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zha3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zha4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhai1,yi1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhai1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhai2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhai3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhao1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhao2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhao3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhao4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhe1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhe2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhe3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhe4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhen1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhen3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhen4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zheng1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zheng3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zheng4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhi1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhi2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhi3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhi4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhong1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhong3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhong4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhou1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhou2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhou3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhou4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhu4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhua1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhua3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhuai4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhuan1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhuan3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhuan4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhuang1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhuang3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhuang4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhui1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhui4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhun1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhun3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhuo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zhuo2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zi1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zi3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zi4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zi5.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zong1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zong3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zong4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zou1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zou3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zou4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zu1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zu2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zu3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zui3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zui4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zun1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zun3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zuo1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zuo2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zuo3.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/audio_man/zuo4.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/WordReaderServer.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/AudioLibrary.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/ChineseLibrary.java" afterPath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/ChineseLibrary.java" />
-      <change type="MOVED" beforePath="D:\prj-mobile\WordReaderServer\src\main\java\com\logic\wordreader\httpclient\QuickStart.java" afterPath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/PinyinOnlineClient.java" />
     </list>
     <ignored path="auto-print.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,7 +1242,7 @@
       <file leaf-file-name="PinyinOnlineClient.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/PinyinOnlineClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="57" selection-start="4230" selection-end="4230" vertical-scroll-proportion="0.0">
+            <state line="29" column="0" selection-start="1033" selection-end="1115" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1557#1565#0" expanded="true" />
@@ -111,14 +1282,23 @@
       <file leaf-file-name="ChineseLibrary.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/ChineseLibrary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="138" column="58" selection-start="14612" selection-end="14612" vertical-scroll-proportion="0.35800603">
+            <state line="143" column="46" selection-start="14796" selection-end="14796" vertical-scroll-proportion="0.33794162">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#340#356#0" expanded="true" />
-                <element signature="e#11399#11415#0" expanded="true" />
-                <element signature="e#13332#13340#0" expanded="true" />
-                <element signature="e#13844#13852#0" expanded="true" />
+                <element signature="e#422#438#0" expanded="true" />
+                <element signature="e#11489#11505#0" expanded="true" />
+                <element signature="e#13422#13430#0" expanded="true" />
+                <element signature="e#13934#13942#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AudioLibrary.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/AudioLibrary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="92" selection-start="446" selection-end="513" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -138,7 +1318,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/docs/MobileApi/PayeeOverview.xml" />
         <option value="$PROJECT_DIR$/docs/test.sql" />
         <option value="$PROJECT_DIR$/docs/test1.xml" />
         <option value="$PROJECT_DIR$/docs/test2.xml" />
@@ -152,8 +1331,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PhpClassCreatorByCSV.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/WordComplete.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/BookInfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/ChineseLibrary.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/QuickStart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/AudioLibrary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/ChineseLibrary.java" />
       </list>
     </option>
   </component>
@@ -285,6 +1465,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="WordReaderServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -295,41 +1479,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wordreader" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="WordReaderServer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wordreader" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="httpclient" />
+              <option name="myItemId" value="docs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -349,7 +1503,20 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="All">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -423,29 +1590,7 @@
       <recent name="com.logic.autoprint" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PinyinOnlineClient">
-    <configuration default="false" name="XmlDoc" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.logic.wordreader.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.logic.wordreader.util.XmlDoc" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="WordReaderServer" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ChineseLibrary">
     <configuration default="false" name="PinYinTest" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -520,6 +1665,28 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.logic.wordreader.httpclient.PinyinOnlineClient" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="WordReaderServer" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AudioLibrary" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.logic.wordreader.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.logic.wordreader.util.AudioLibrary" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -682,11 +1849,11 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 6" />
-      <item index="1" class="java.lang.String" itemvalue="Application.XmlDoc" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PinYinTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PinYinTest2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ChineseLibrary" />
-      <item index="5" class="java.lang.String" itemvalue="Application.PinyinOnlineClient" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PinYinTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PinYinTest2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ChineseLibrary" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PinyinOnlineClient" />
+      <item index="5" class="java.lang.String" itemvalue="Application.AudioLibrary" />
     </list>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -735,7 +1902,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1030" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18272425" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -748,10 +1915,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41042346" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29638273" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15081081" sideWeight="0.82147026" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15081081" sideWeight="0.80863476" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1973262" sideWeight="0.7021041" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17513514" sideWeight="0.82147026" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17852975" sideWeight="0.9883871" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17513514" sideWeight="0.80863476" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19136523" sideWeight="0.9883871" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="JavaRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -822,11 +1989,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/lib/pinyin4j-2.5.0.jar!/net/sourceforge/pinyin4j/PinyinHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="90" selection-start="2414" selection-end="2414" vertical-scroll-proportion="0.848723" />
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.6.0_26/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="683" column="16" selection-start="24720" selection-end="24720" vertical-scroll-proportion="0.33211008" />
@@ -918,7 +2080,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/PinyinOnlineClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="57" selection-start="4230" selection-end="4230" vertical-scroll-proportion="0.0">
+        <state line="29" column="0" selection-start="1033" selection-end="1115" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1557#1565#0" expanded="true" />
@@ -927,15 +2089,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/AudioLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="92" selection-start="446" selection-end="513" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/ChineseLibrary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="58" selection-start="14612" selection-end="14612" vertical-scroll-proportion="0.35800603">
+        <state line="143" column="46" selection-start="14796" selection-end="14796" vertical-scroll-proportion="0.33794162">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#340#356#0" expanded="true" />
-            <element signature="e#11399#11415#0" expanded="true" />
-            <element signature="e#13332#13340#0" expanded="true" />
-            <element signature="e#13844#13852#0" expanded="true" />
+            <element signature="e#422#438#0" expanded="true" />
+            <element signature="e#11489#11505#0" expanded="true" />
+            <element signature="e#13422#13430#0" expanded="true" />
+            <element signature="e#13934#13942#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -999,6 +2168,7 @@
             <option name="proportions">
               <list>
                 <option value="0.13403264" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

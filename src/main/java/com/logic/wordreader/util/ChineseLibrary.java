@@ -139,8 +139,7 @@ public class ChineseLibrary {
         for (char c : pyUtf8.toCharArray()) {
             String key = c + "";
             if (mapUtf8.containsKey(key)) {
-                number = pyUtf8.replaceAll(key, mapUtf8.get(key).substring(0, 1))+ mapUtf8.get(key).substring(1, 2);
-                break;
+                number = pyUtf8.replace(key, mapUtf8.get(key).substring(0, 1)).trim() + mapUtf8.get(key).substring(1, 2);
             }
         }
         return number;

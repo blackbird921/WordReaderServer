@@ -23,7 +23,7 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 
-public class QuickStart {
+public class PinyinOnlineClient {
 
     public static List<String> readFile(String fileName, String delim, int startTrim) throws Exception {
         BufferedReader fileBuffer = new BufferedReader(new FileReader(fileName));
@@ -90,9 +90,9 @@ public class QuickStart {
                 }
             }
             System.out.println(wordStr);
-//            String pinyinStr = getPinyin(wordStr).replaceAll("ok:", "");
-            String x = "ok:bǎo zhòng ,bǎo hù ,hù shì ,hù lǐ ,chéng xiāng ,cháng chéng ,chéng qiáng ,chéng shì ,shì mín ,dū shì ,qì chē ,qì shuǐ ,qì yóu ,xiān huā ,xīn xiān ,xiān hóng ,yùn dòng ,yùn yòng ,xìng yùn ,xiāo shī , ";
-            String pinyinStr = x.replaceAll("ok:", "");
+            String pinyinStr = getPinyin(wordStr).replaceAll("ok:", "");
+//            String x = "ok:bǎo zhòng ,bǎo hù ,hù shì ,hù lǐ ,chéng xiāng ,cháng chéng ,chéng qiáng ,chéng shì ,shì mín ,dū shì ,qì chē ,qì shuǐ ,qì yóu ,xiān huā ,xīn xiān ,xiān hóng ,yùn dòng ,yùn yòng ,xìng yùn ,xiāo shī , ";
+//            String pinyinStr = x.replaceAll("ok:", "");
             List<WordComplete> wordCompleteList = getWordComplete(wordStr, pinyinStr, bookInfo);
             for (WordComplete c : wordCompleteList) {
                 wordStrWithPy += c.toString() + "\n";
@@ -110,8 +110,12 @@ public class QuickStart {
         for (int i = 0; i < words.length; i++) {
             WordComplete wordComplete = new WordComplete();
             wordComplete.setChinese(words[i]);
-            wordComplete.setPinyinUtf8(pinyins[i]);
-            wordComplete.setPinyinNumber(ChineseLibrary.pinyinUtf8ToNumber(pinyins[i]));
+            wordComplete.setPinyinUtf8(pinyins[i].trim());
+            String pinyinNumber = "";
+            for(String s: pinyins[i].split("\\s")){
+                pinyinNumber+= ChineseLibrary.pinyinUtf8ToNumber(s)+" ";
+            }
+            wordComplete.setPinyinNumber(pinyinNumber.trim());
             wordComplete.setBookKey(bookInfo.getBookKey());
             wordComplete.setGrade(bookInfo.getGrade());
             wordComplete.setGradeTerm(bookInfo.getGradeTerm());
@@ -127,7 +131,7 @@ public class QuickStart {
         bookInfo.setBookKey("沪教一年级第二学期");
         bookInfo.setGrade(1);
         bookInfo.setGradeTerm(2);
-        String wordStrWithPy = getPinyinByBatch(words, 20, bookInfo);
+        String wordStrWithPy = getPinyinByBatch(words, 40, bookInfo);
         writeFile("D:\\prj-mobile\\WordReaderServer\\docs\\一年级第二学期识字卡片_with_pinyin.txt", wordStrWithPy);
 //        getPinyin("中国,国家");
     }

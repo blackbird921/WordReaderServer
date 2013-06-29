@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="183e38fd-7e68-439e-8fb2-b7967935296e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/BookInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/QuickStart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/WordComplete.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/ChineseLibrary.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PinYinTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PinYinTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/ChineseLibrary.java" afterPath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/ChineseLibrary.java" />
+      <change type="MOVED" beforePath="D:\prj-mobile\WordReaderServer\src\main\java\com\logic\wordreader\httpclient\QuickStart.java" afterPath="$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/PinyinOnlineClient.java" />
     </list>
     <ignored path="auto-print.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,14 +68,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="QuickStart.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/QuickStart.java">
+      <file leaf-file-name="PinyinOnlineClient.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/PinyinOnlineClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="29" selection-start="3908" selection-end="3908" vertical-scroll-proportion="0.4086444">
+            <state line="95" column="57" selection-start="4230" selection-end="4230" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1549#1557#0" expanded="true" />
-                <element signature="e#4594#4608#0" expanded="true" />
+                <element signature="e#1557#1565#0" expanded="true" />
+                <element signature="e#4604#4618#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,10 +108,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChineseLibrary.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ChineseLibrary.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/ChineseLibrary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="21" selection-start="425" selection-end="426" vertical-scroll-proportion="0.0">
+            <state line="138" column="58" selection-start="14612" selection-end="14612" vertical-scroll-proportion="0.35800603">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#340#356#0" expanded="true" />
@@ -154,8 +151,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PinYinTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PhpClassCreatorByCSV.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/WordComplete.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/ChineseLibrary.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/BookInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/ChineseLibrary.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/QuickStart.java" />
       </list>
     </option>
@@ -426,7 +423,7 @@
       <recent name="com.logic.autoprint" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickStart">
+  <component name="RunManager" selected="Application.PinyinOnlineClient">
     <configuration default="false" name="XmlDoc" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -515,14 +512,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="QuickStart" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="PinyinOnlineClient" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.logic.wordreader.httpclient.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.logic.wordreader.httpclient.QuickStart" />
+      <option name="MAIN_CLASS_NAME" value="com.logic.wordreader.httpclient.PinyinOnlineClient" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -689,7 +686,7 @@
       <item index="2" class="java.lang.String" itemvalue="Application.PinYinTest" />
       <item index="3" class="java.lang.String" itemvalue="Application.PinYinTest2" />
       <item index="4" class="java.lang.String" itemvalue="Application.ChineseLibrary" />
-      <item index="5" class="java.lang.String" itemvalue="Application.QuickStart" />
+      <item index="5" class="java.lang.String" itemvalue="Application.PinyinOnlineClient" />
     </list>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -751,10 +748,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41042346" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29638273" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15081081" sideWeight="0.64294046" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15081081" sideWeight="0.82147026" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1973262" sideWeight="0.7021041" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17513514" sideWeight="0.64294046" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3570595" sideWeight="0.9883871" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17513514" sideWeight="0.82147026" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17852975" sideWeight="0.9883871" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="JavaRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -898,19 +895,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/ChineseLibrary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="21" selection-start="425" selection-end="426" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#340#356#0" expanded="true" />
-            <element signature="e#11399#11415#0" expanded="true" />
-            <element signature="e#13332#13340#0" expanded="true" />
-            <element signature="e#13844#13852#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/PhpClassCreatorByCSV.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="149" column="54" selection-start="5666" selection-end="5666" vertical-scroll-proportion="-5.785714">
@@ -932,13 +916,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/QuickStart.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/httpclient/PinyinOnlineClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="29" selection-start="3908" selection-end="3908" vertical-scroll-proportion="0.4086444">
+        <state line="95" column="57" selection-start="4230" selection-end="4230" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1549#1557#0" expanded="true" />
-            <element signature="e#4594#4608#0" expanded="true" />
+            <element signature="e#1557#1565#0" expanded="true" />
+            <element signature="e#4604#4618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/logic/wordreader/util/ChineseLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="58" selection-start="14612" selection-end="14612" vertical-scroll-proportion="0.35800603">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#340#356#0" expanded="true" />
+            <element signature="e#11399#11415#0" expanded="true" />
+            <element signature="e#13332#13340#0" expanded="true" />
+            <element signature="e#13844#13852#0" expanded="true" />
           </folding>
         </state>
       </provider>
